@@ -10,7 +10,7 @@
 
 ## 聊天界面直接汉化（1.1.0）
 
-> 预构建的 `.vsix` 和 `.zip` 不随仓库分发，请到本项目的 **GitHub Releases** 页面下载，或按下方「从源码构建」自行打包。
+> 预构建的 `.vsix` 和 `.zip` 不随仓库分发，请到本项目的 [GitHub Releases](https://github.com/HelloGit403/cursor-zh-cn/releases) 页面下载，或按下方「从源码构建」自行打包。
 
 如果你使用的是独立聊天窗口（Agents Window），直接使用 `Cursor聊天界面汉化-1.1.0.zip`，完整解压后双击 **聊天界面汉化.cmd**。无需进入 IDE，无需安装 VSIX，也无需单独安装 Node.js。完成后保存工作、完全退出所有 Cursor 窗口，再重新打开聊天界面。
 

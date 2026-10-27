@@ -11,6 +11,8 @@
 - 界面上优先查本地词典（418 条），没收录的交给本机 CTranslate2 模型
 - 默认翻译约 9,780 条（本地词典 + 你已安装的微软中文语言包），不需要额外配置
 
+📦 **下载**：[最新版本 Releases](https://github.com/HelloGit403/cursor-zh-cn/releases) —— 不想自己装 Python 就直接下便携包，想从 IDE 命令面板用就下 `.vsix`。
+
 > 本项目与 Cursor / Anysphere、微软均无隶属关系。属于第三方界面补丁，不是 Cursor 官方支持的扩展接口。
 
 ## 两种方案
