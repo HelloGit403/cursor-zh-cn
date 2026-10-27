@@ -1,0 +1,72 @@
+{
+  "version": "3.24.18",
+  "file": "workbench.glass.main.js",
+  "sha256": "8660a1449025c353bcb9e076d609a427955eb0a94b2d84646d2f758c6947813b",
+  "patches": [
+    {
+      "english": "New Chat",
+      "before": "_ig=\"glass_stable_diff_group_keys\",Mrl=",
+      "after": ",big="
+    },
+    {
+      "english": "New Agent",
+      "before": ",big=",
+      "after": ",yig=\"managed_automations_team_revamp\""
+    },
+    {
+      "english": "Start from scratch",
+      "before": "E(),dp(),Hu(),xd(),xG(),LE(),Sye=",
+      "after": ",n_s="
+    },
+    {
+      "english": "This PC",
+      "before": "function qX(){return xa?",
+      "after": ":_r?"
+    },
+    {
+      "english": "This Mac",
+      "before": "\"This PC\":_r?",
+      "after": ":\"This Computer\""
+    },
+    {
+      "english": "This Computer",
+      "before": "\"This PC\":_r?\"This Mac\":",
+      "after": "}function WMn"
+    },
+    {
+      "english": "Plan, Build, / for skills, @ for context",
+      "before": "if(s())return",
+      "after": ";switch(te())"
+    },
+    {
+      "english": "Plan, Build, / for skills, @ for context",
+      "before": "Q2=YU?\"Drop here to attach...\":Og?oyc:",
+      "after": ",w9="
+    },
+    {
+      "english": "Automations",
+      "before": "return Ee(psn,{name:",
+      "after": ",get icon(){return Ee(P3t,{name:\"robot\""
+    },
+    {
+      "english": "Customize",
+      "before": "return Ee(psn,{name:",
+      "after": ",get icon(){return Ee(P3t,{name:\"extensions\""
+    },
+    {
+      "english": "Customize",
+      "before": "Z2=he===\"customize\"?",
+      "after": ":\"Marketplace\""
+    },
+    {
+      "english": "Customize",
+      "before": "getName(){return",
+      "after": "}getIcon(){return cOE}"
+    },
+    {
+      "english": "Customize",
+      "before": "\"marketplace_tab_customize_label\",\"group\",!G)===\"treatment\"?",
+      "after": ":\"Marketplace\""
+    }
+  ]
+}

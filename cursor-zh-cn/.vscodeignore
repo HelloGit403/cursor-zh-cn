@@ -1,0 +1,15 @@
+.git/**
+.gitignore
+.vscode/**
+.vscodeignore
+tools/**
+test-results/**
+package-lock.json
+**/*.vsix
+node_modules/acorn/bin/**
+node_modules/acorn/CHANGELOG.md
+node_modules/acorn/README.md
+node_modules/acorn/dist/*.mjs
+node_modules/acorn/dist/*.d.ts
+node_modules/acorn/dist/*.d.mts
+node_modules/acorn/dist/bin.js
